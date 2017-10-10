@@ -18,8 +18,13 @@ h1 {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 250%;
 }
-h2, h3 {
-  color: #444;
+h3 {
+  color: #627640;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+}
+a {
+  color: white;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: lighter;
 }
