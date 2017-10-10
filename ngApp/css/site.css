@@ -164,11 +164,13 @@ color: white
 
 
 body {
-  background: url('https://image.ibb.co/mCx8gG/4k_picture_boat_stylized.jpg') no-repeat center center fixed;
+  background: url('https://image.ibb.co/mCx8gG/4k_picture_boat_stylized.jpg') no-repeat center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
+  background-color: grey;
+
 }
 
 
